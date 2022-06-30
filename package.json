@@ -1,7 +1,7 @@
 {
   "homepage": "https://aliph55.github.io/responsive-react-app",
   "name": "responsive-react-app",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
